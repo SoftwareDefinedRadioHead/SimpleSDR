@@ -1,6 +1,6 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Jason Guo, Electrical Engineering Student (2024)
+jasong05@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
